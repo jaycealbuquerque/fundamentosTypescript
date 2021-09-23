@@ -1,4 +1,6 @@
 // type alieses
+// pode descrever  um objeto mais tmb um conjunto pequeto de tipos primitivos
+// funciona para objetos e tipos primitivos
 
 type Uid = number | string | undefined
 
